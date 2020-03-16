@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Async String": {
+      "commandName": "Project",
+      "commandLineArgs": " trash.txt 1 c d"
+    }
+  }
+}
